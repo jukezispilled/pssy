@@ -47,7 +47,7 @@ export default function Component() {
             ))}
           </div>
         </div>
-        <div className="flex flex-col items-center space-y-6 text-center">
+        <div className="flex flex-col items-center space-y-4 text-center">
           <div>
             <h1 className="text-3xl font-bold">Pocket Pussy</h1>
             <div className="flex justify-center items-center mt-2">
