@@ -5,7 +5,7 @@ export default function Component() {
   const [size, setSize] = useState('');
 
   const sizes = [
-    { value: 'small', label: '🥷(small)' },
+    { value: 'small', label: '🥡(small)' },
     { value: 'medium', label: '👨🏻(medium)' },
     { value: 'large', label: '👨🏿(large)' },
   ];
