@@ -124,7 +124,7 @@ export default function Component() {
             Add to Cart
           </a>
           <div className="flex justify-between items-center pt-4 border-t w-full">
-            <span className="text-sm text-gray-500">In stock - Usually ships within 24 hours</span>
+            <span className="text-sm text-gray-200">In stock - Usually ships within 24 hours</span>
             <div className='flex justify-center items-center z-10'>
                 <a href="https://x.com/" className=''>
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='h-8 md:h-10 md:hover:scale-105 transition ease-in-out duration-150' fill="#00000" viewBox="0 0 50 50">
