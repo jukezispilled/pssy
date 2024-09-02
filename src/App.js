@@ -19,7 +19,7 @@ export default function Component() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-4 md:p-6 lg:p-8 bg-pink-300 relative overflow-hidden">
-      <div className='absolute top-4 text-xs md:text-lg font-semibold'>CA: updating...</div>
+      <div className='absolute top-4 text-xs md:text-lg font-semibold'>CA: AWzRUwB7oswAQneEddyp22tFsZb1NCHD8VsevjfSpump</div>
 
       <img src="lana.png" className='absolute -bottom-[15%] -right-[15%] hidden md:flex z-10'></img>
       <img src="violet.png" className='absolute -bottom-[15%]'></img>
@@ -106,7 +106,7 @@ export default function Component() {
               />
             </div>
           </div>
-          <a href="https://www.pump.fun/board" className="w-full flex justify-center items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+          <a href="https://www.pump.fun/AWzRUwB7oswAQneEddyp22tFsZb1NCHD8VsevjfSpump" className="w-full flex justify-center items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-4 w-4 mr-2"
