@@ -49,7 +49,7 @@ export default function Component() {
         </div>
         <div className="flex flex-col items-center space-y-4 text-center">
           <div>
-            <h1 className="text-3xl font-bold">Pocket Pussy</h1>
+            <h1 className="text-3xl font-bold">pocket pussy</h1>
             <div className="flex justify-center items-center mt-2">
               <div className="flex">
                 {[...Array(5)].map((_, i) => (
@@ -69,7 +69,7 @@ export default function Component() {
           </div>
           <div className="text-4xl font-bold">$69.69</div>
           <p className="text-gray-600">
-            Tired of getting after it alone? Tired of makeshift box? Look no further than the Pocket Pussy™, for never-ending portable pleasure. Our product is Sins Certified and we carry your favorite porn stars box! Get yours today for the low price of $69.69.
+            Tired of getting after it alone? Tired of makeshift box? Look no further than the pocket pussy™, for never-ending portable pleasure. Our product is Sins certified and we carry your favorite porn stars box! Get yours today for the low price of $69.69.
           </p>
           <div className="space-y-4 w-full">
             <div className="w-full">
