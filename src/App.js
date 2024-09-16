@@ -18,8 +18,8 @@ export default function Component() {
   ];
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen p-4 md:p-6 lg:p-8 bg-pink-300 relative overflow-hidden">
-      <div className='absolute top-4 text-xs md:text-lg font-semibold'>CA: AWzRUwB7oswAQneEddyp22tFsZb1NCHD8VsevjfSpump</div>
+    <div className="flex flex-col items-center justify-center min-h-screen p-4 md:p-6 lg:p-8 bg-white relative overflow-hidden">
+      <div className='absolute top-4 text-xs md:text-lg'>CA: updating...</div>
 
       <img src="lana.png" className='absolute -bottom-[15%] -right-[15%] hidden md:flex z-10'></img>
       <img src="violet.png" className='absolute -bottom-[15%]'></img>
@@ -106,7 +106,7 @@ export default function Component() {
               />
             </div>
           </div>
-          <a href="https://www.pump.fun/AWzRUwB7oswAQneEddyp22tFsZb1NCHD8VsevjfSpump" className="w-full flex justify-center items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+          <a href="https://www.pump.fun/" className="w-full flex justify-center items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-4 w-4 mr-2"
@@ -124,7 +124,7 @@ export default function Component() {
             Add to Cart
           </a>
           <div className="flex justify-between items-center pt-4 border-t w-full">
-            <span className="text-sm text-gray-200">In stock - Usually ships within 24 hours</span>
+            <span className="text-sm text-gray-700">In stock - Usually ships within 24 hours</span>
             <div className='flex justify-center items-center z-10'>
                 <a href="https://x.com/Pussyonsoll" className=''>
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='h-8 md:h-10 md:hover:scale-105 transition ease-in-out duration-150' fill="#00000" viewBox="0 0 50 50">
